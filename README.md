@@ -1,4 +1,4 @@
-# S3_Project_OCR: #FreeGalane
+# S3_Project_OCR: #FreeGalane (Sept 2024 - Dec 2024)
 
 Application in C done as a project of the S3 EPITA semester. 
 Inputs a word search game as an image, solves it,
